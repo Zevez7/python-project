@@ -1,0 +1,8 @@
+
+db.sqlite3
+virtualenv
+geckodriver.log
+Guide.rtf
+__pycache__
+*.pyc
+~$Guide.rtf
